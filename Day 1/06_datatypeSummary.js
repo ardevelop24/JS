@@ -2,17 +2,22 @@
 // const scoreValue =4333.53
 
 // const isLoggedIn =false
+
+// console.log(isLoggedIn);
 // const outsideTemp =null
 // let userEmail;   //undefined
 
 
 
-const id=Symbol('123')
-const anotherId = Symbol('123')
 
-console.log(id);
-console.log(anotherId);
-console.log(id== anotherId);
+//------Symbol
+
+// const id=Symbol('123')
+// const anotherId = Symbol('123')
+
+// console.log(id);
+// console.log(anotherId);
+// console.log(id== anotherId);
 
 
 
@@ -29,15 +34,16 @@ console.log(id== anotherId);
 // console.log(myobject)
 
 
-// const myFunc =function(){
-//     console.log("hello world")
+const myFunc =function(){
+    console.log("hello world")
 
-// }
+}
 
 // console.log( typeof userEmail);
 // console.log(typeof outsideTemp);
 
-// console.log(typeof myFunc);
+console.log(typeof myFunc);
+myFunc();
 
 // console.log(typeof heros);
 
