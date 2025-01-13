@@ -19,8 +19,8 @@ console.log(str3)
 
 console.log("1" +2)
 console.log(1 +"2")
-console.log("1" +2 +3)
-console.log(1 +2 +"3")
+console.log("1" +2 +3) //123
+console.log(1 +2 +"3")  //33
 
 console.log(("1" + 2) +(1 +3))
 console.log(("1" + "2") +(1 +3))
@@ -29,13 +29,13 @@ console.log(("1" + 2) +("1" +3))
 console.log(false + false)
 console.log(true + false)
 
-console.log(+ "")
+console.log(+ "") //0
 console.log(1 + "")
 
 
 
 let gameCounter =5343
 gameCounter++
-console.log(gameCounter);
+console.log(gameCounter); //5344
 
 
