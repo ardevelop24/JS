@@ -3,15 +3,15 @@
 // let score =null
 // let score =undefined
 // let score =true
-let score ="abhi"
+// let score ="abhi"
 
-console.log(typeof score);
-console.log(typeof(score));
+// console.log(typeof score);
+// console.log(typeof(score));
 
-let valueInNumber =Number(score)
+// let valueInNumber =Number(score)
 
-console.log(valueInNumber)
-console.log(typeof(valueInNumber));
+// console.log(valueInNumber)
+// console.log(typeof(valueInNumber));
 
 
 
@@ -26,15 +26,15 @@ console.log(typeof(valueInNumber));
 
 // let isLoggedIn =1
 // let isLoggedIn ="abhi"
-let isLoggedIn =""
+// let isLoggedIn =""
 
-let booleanisLoggedIn = Boolean(isLoggedIn)
-console.log(booleanisLoggedIn);
-
-
+// let booleanisLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanisLoggedIn);
 
 
-//Notes
+
+
+//Notes or Boolean
 
 // 1  = true;  0 = false
 //""  = false
